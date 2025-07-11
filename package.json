@@ -1,8 +1,8 @@
 {
   "name": "unpin-all-editors",
-  "displayName": "unpin-all-editors",
+  "displayName": "Unpin All Editors",
   "description": "Unpin all editors",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "piotrpalarz",
   "engines": {
     "vscode": "^1.102.0"
