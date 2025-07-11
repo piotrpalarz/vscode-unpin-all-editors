@@ -1,8 +1,8 @@
 {
   "name": "unpin-all-editors",
   "displayName": "Unpin All Editors",
-  "description": "Unpin all editors",
-  "version": "0.0.4",
+  "description": "The missing command to unpin all editors at once",
+  "version": "0.0.5",
   "publisher": "piotrpalarz",
   "engines": {
     "vscode": "^1.78.0"
