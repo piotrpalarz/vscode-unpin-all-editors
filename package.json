@@ -3,12 +3,21 @@
   "displayName": "unpin-all-editors",
   "description": "Unpin all editors",
   "version": "0.0.1",
+  "publisher": "piotrpalarz",
   "engines": {
     "vscode": "^1.102.0"
   },
   "categories": [
     "Other"
   ],
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/piotrpalarz/vscode-unpin-all-editors.git"
+    },
+    "homepage": "https://github.com/piotrpalarz/vscode-unpin-all-editors",
+    "bugs": {
+        "url": "https://github.com/piotrpalarz/vscode-unpin-all-editors/issues"
+    },
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
